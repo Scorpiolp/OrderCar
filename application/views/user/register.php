@@ -21,9 +21,6 @@
 	  text-align: center;
 	}
   </style>
-  
-  <br />
-<br />
 <div class='get'>
 
 <div class="am-g am-g-fixed" >

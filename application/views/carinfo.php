@@ -63,7 +63,7 @@
                         <option value="Mid-size">Mid-size</option>
                         <option value="Premium">Premium</option>
                         <option value="Standard">Standard</option>
-                        <option value="Suv">Suv</option>
+                        <option value="SUV">SUV</option>
                         <option value="Van">Van</option>
                     </select>
                 </td>

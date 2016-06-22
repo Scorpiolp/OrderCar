@@ -107,32 +107,32 @@
                     <table class="am-table">
                         <caption>Car Information</caption>
                         <tr>
-                            <td class="am-success">Car License</td>
-                            <td class="am-primary"><?=$item->license?></td>
+                            <td class="am-success" width="50%">Car License</td>
+                            <td class="am-primary" width="50%"><?=$item->license?></td>
                         </tr>
                         <tr>
-                            <td class="am-success">Car Type</td>
-                            <td class="am-primary"><?=$item->type?></td>
+                            <td class="am-success" width="50%">Car Type</td>
+                            <td class="am-primary" width="50%"><?=$item->type?></td>
                         </tr>
                         <tr>
-                            <td class="am-success">Car Place</td>
-                            <td class="am-primary"><?=$item->place?></td>
+                            <td class="am-success" width="50%">Car Place</td>
+                            <td class="am-primary" width="50%"><?=$item->place?></td>
                         </tr>
                         <tr>
-                            <td class="am-success">Car Office</td>
-                            <td class="am-primary"><?=$item->office?></td>
+                            <td class="am-success" width="50%">Car Office</td>
+                            <td class="am-primary" width="50%"><?=$item->office?></td>
                         </tr>
                         <tr>
-                            <td class="am-success">Car Year</td>
-                            <td class="am-primary"><?=$item->year?></td>
+                            <td class="am-success" width="50%">Car Year</td>
+                            <td class="am-primary" width="50%"><?=$item->year?></td>
                         </tr>
                         <tr>
-                            <td class="am-success">Car Mile</td>
-                            <td class="am-primary"><?=$item->miles?></td>
+                            <td class="am-success" width="50%">Car Mile</td>
+                            <td class="am-primary" width="50%"><?=$item->miles?></td>
                         </tr>
                         <tr>
-                            <td></td>
-                            <td>
+                            <td width="50%"></td>
+                            <td width="50%">
                                 <input lic="<?=$item->license?>" type="button" name="sell" value="Sell it" class="am-btn am-btn-primary am-radius">
                             </td>
                         </tr>
